@@ -24,8 +24,5 @@ This project analyzes sales transaction data to understand customer behavior, pr
 
 The analysis helps identify key sales trends and supports better business decisions related to marketing and inventory planning.
 
----
-
-Short, simple, and natural ✅
 
 
